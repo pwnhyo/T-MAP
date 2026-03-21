@@ -4,7 +4,7 @@
 
 ![T-MAP Overview](assets/overview.png)
 
-T-MAP is a trajectory-aware evolutionary search framework for red-teaming LLM agents over MCP servers. It iteratively generates and mutates adversarial prompts guided by execution trajectories, mapping the agent's vulnerability landscape across diverse risk categories and attack styles.
+**T-MAP** is a trajectory-aware evolutionary search framework for red-teaming LLM agents over MCP servers. It iteratively generates and mutates adversarial prompts guided by execution trajectories, mapping the agent's vulnerability landscape across diverse risk categories and attack styles.
 
 ---
 
