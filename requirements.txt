@@ -1,0 +1,27 @@
+#langchain
+langchain-mcp-adapters
+langchain-openai
+langchain
+
+# Core
+openai
+
+# MCP Client
+mcp
+anyio
+
+# Async & Progress
+tqdm
+aiohttp
+
+# Data Processing
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+requests
+python-dotenv
