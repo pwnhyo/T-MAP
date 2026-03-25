@@ -1,6 +1,6 @@
 # T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search
 
-[![arXiv](https://img.shields.io/badge/arXiv-2603.22341-b31b1b.svg)](https://arxiv.org/)
+[![arXiv](https://img.shields.io/badge/arXiv-2603.22341-b31b1b.svg)](https://arxiv.org/abs/2603.22341)
 
 ![T-MAP Overview](assets/overview.png)
 
