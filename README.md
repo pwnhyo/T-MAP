@@ -1,6 +1,6 @@
 # T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search
 
-[![arXiv](https://img.shields.io/badge/arXiv-1111.11111-b31b1b.svg)](https://arxiv.org/)
+[![arXiv](https://img.shields.io/badge/arXiv-2603.22341-b31b1b.svg)](https://arxiv.org/)
 
 ![T-MAP Overview](assets/overview.png)
 
@@ -118,7 +118,13 @@ More examples in [`run_examples.sh`](run_examples.sh).
 ## 📄 Citation
 
 ```bibtex
-@article{
-  We will update it.
+@article{lee2026tmapredteamingllmagents,
+      title={T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search}, 
+      author={Hyomin Lee and Sangwoo Park and Yumin Choi and Sohyun An and Seanie Lee and Sung Ju Hwang},
+      year={2026},
+      eprint={2603.22341},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2603.22341}
 }
 ```
